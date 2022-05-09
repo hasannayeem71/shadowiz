@@ -1,0 +1,22 @@
+{
+  "name": "shadowizi",
+  "version": "1.0.0",
+  "description": "Add aswome shadow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasannayeem71/shadowiz.git"
+  },
+  "keywords": [
+    "shadows"
+  ],
+  "author": "Mahmudul Hasan Nayeem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hasannayeem71/shadowiz/issues"
+  },
+  "homepage": "https://github.com/hasannayeem71/shadowiz#readme"
+}

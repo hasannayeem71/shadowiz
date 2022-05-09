@@ -3,13 +3,13 @@
 ## Installation
 
 ```
-npm i shadowiz --save
+npm i shadowizi --save
 ```
 
 ### Then...
 
 ```
-import {shadowiz} from 'shadowiz';
+import {shadowiz} from 'shadowizi';
 
 shadowiz({
     shadow_type:'soft',
